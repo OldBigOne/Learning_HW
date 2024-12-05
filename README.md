@@ -1,2 +1,2 @@
 This is my projects from GoIT.
-Tableau + SQL
+Tableau + SQL + Python
